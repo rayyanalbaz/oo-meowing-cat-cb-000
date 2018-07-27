@@ -1,5 +1,5 @@
 ## code your solution here.
 class Cat
-    cat_name :name
+    attr_accessor :name
 
 end
